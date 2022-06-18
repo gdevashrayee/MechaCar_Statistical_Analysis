@@ -22,8 +22,8 @@
 
 
 ![x](./img/img_1.png)
-![y](./img/img_2.PNG)
-![z](./img/img_3.PNG)
+![y](./img/img_2.png)
+![z](./img/img_3.png)
 
 
 ## T-Tests on Suspension Coils
@@ -31,13 +31,13 @@
 * All t-tests can be seen below:<br />
 
 ## Across all lots:
-![xx](./img/img_5.PNG)
+![xx](./img/img_5.png)
 ## Lot 1:
-![yy](./img/img_6.PNG)
+![yy](./img/img_6.png)
 ## Lot 2:
-![zz](./img/img_7.PNG)
+![zz](./img/img_7.png)
 ## Lot 3:
-![aa](./img/img_8.PNG)
+![aa](./img/img_8.png)
 
 ## Study Design: MechaCar vs Competition
 When comparing MechaCar to its competitor’s other metrics that could be of interest to a consumer could include cost, car color, city fuel efficiency, highway fuel efficiency, horsepower, maintenance cost, or safety rating.
