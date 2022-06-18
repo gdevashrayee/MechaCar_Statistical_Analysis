@@ -21,7 +21,7 @@
    Lot 1 and Lot 2 are both within design specifications and have nearly the same exact mean and median. Lot 3 shows the most variance and exceeds the manufacturers specs.
 
 
-![x](./img/img_1.PNG)
+![x](./img/img_1.png)
 ![y](./img/img_2.PNG)
 ![z](./img/img_3.PNG)
 
